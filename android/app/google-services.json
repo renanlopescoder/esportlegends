@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "830075288750",
+    "firebase_url": "https://esportlegends-138a0.firebaseio.com",
+    "project_id": "esportlegends-138a0",
+    "storage_bucket": "esportlegends-138a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830075288750:android:aa04276abfcade15",
+        "android_client_info": {
+          "package_name": "com.esportlegends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830075288750-jqp5v0mkf7ekajip97qip3ahh7c6ag4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnebBwXYYdgFobO_2pLE34D-NdYGN8uGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
